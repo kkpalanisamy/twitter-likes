@@ -5,3 +5,4 @@
 4. Tell Me About Yourself - A Good Answer to This Interview Question https://t.co/Q758SitzDY
 5. Avoid Context Switching: Use https://t.co/39pp2aUWNs https://t.co/IYkVBKV3QX
 6. basics of Decision Fatigue. https://t.co/C5osAgNBJc
+7. Tell about yourself - https://risingdevhabits.com/how-to-answer-tell-me-about-yourself/
