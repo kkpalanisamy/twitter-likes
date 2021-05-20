@@ -19,9 +19,9 @@
 
 
 
-9.Understanding Async & Await - https://css-tricks.com/understanding-async-await/
+9. Understanding Async & Await - https://css-tricks.com/understanding-async-await/
 
-10.Best of JS - I use it regularly to follow the latest JS trends. https://t.co/lhEj8V8sDE https://t.co/iRbfKaPx8h
+10. Best of JS - I use it regularly to follow the latest JS trends. https://t.co/lhEj8V8sDE https://t.co/iRbfKaPx8h
 11. practical examples and includes modern features such as Iterables, Symbols, Sets, Maps, WeakSets, WeakMaps, Generators. https://t.co/Sbv7QEOO8I 
 12. Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019 - https://www.youtube.com/watch?v=KJP1E-Y-xyo
 13. A Complete Guide To Accessible Front-End Components https://t.co/CmG1ZR6cfe
